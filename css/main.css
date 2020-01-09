@@ -21,3 +21,25 @@ html {
   font-style: normal;
   font-weight: 400;
 }
+
+.btn {
+  border: 3px solid;
+  border-color: #90ccc3;
+  border-radius: 8px;
+}
+
+.btn-ghost {
+  border: 3px solid;
+  border-color: #90ccc3;
+  border-radius: 8px;
+  transition: all .2s linear;
+  padding-top: .75em;
+}
+
+.btn-ghost:hover {
+  background-color: #fff;
+}
+
+@media only screen and (min-width: 90em) {
+
+}
