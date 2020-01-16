@@ -40,6 +40,30 @@ html {
   background-color: #fff;
 }
 
+.recipetitle, .ingredients {
+  font-family: proxima-nova, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.recipecontent, .list, .prep {
+  font-family: adobe-caslon-pro, serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.typetitle {
+  font-family: alexa-std, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.typeh2 {
+  font-family: proxima-nova, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
 @media only screen and (min-width: 90em) {
 
 }
